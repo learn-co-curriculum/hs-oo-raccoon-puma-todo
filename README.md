@@ -6,9 +6,10 @@ type: todo
 ---
 
 ### Raccoons and Pumas, BFFAE
- 
+
 ### Step 1: 
 Watch this [YouTube video](https://www.youtube.com/watch?v=vxiSP_ch_oI):
+
 <iframe width="100%" height="480" src="/www.youtube.com/embed/vxiSP_ch_oI" frameborder="0" allowfullscreen></iframe>
 
 ### Step 2: 

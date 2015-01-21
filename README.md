@@ -10,7 +10,7 @@ type: todo
 ### Step 1: 
 Watch this [YouTube video](https://www.youtube.com/watch?v=vxiSP_ch_oI):
 
-<iframe width="100%" height="480" src="/www.youtube.com/embed/vxiSP_ch_oI" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="//www.youtube.com/embed/vxiSP_ch_oI" frameborder="0" allowfullscreen></iframe>
 
 ### Step 2: 
 We're going to build two classes. A `Raccoon` class and a `Puma` class. 

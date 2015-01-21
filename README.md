@@ -6,11 +6,10 @@ type: todo
 ---
 
 ### Raccoons and Pumas, BFFAE
+<img src="https://after-school-assets.s3.amazonaws.com/puma.jpg">
 
 ### Step 1: 
-Watch this [YouTube video](https://www.youtube.com/watch?v=vxiSP_ch_oI):
-
-<iframe width="560" height="315" src="//www.youtube.com/embed/vxiSP_ch_oI" frameborder="0" allowfullscreen></iframe>
+Watch this [YouTube video](https://www.youtube.com/watch?v=vxiSP_ch_oI).
 
 ### Step 2: 
 We're going to build two classes. A `Raccoon` class and a `Puma` class. 
@@ -24,7 +23,7 @@ We're going to build two classes. A `Raccoon` class and a `Puma` class.
 
 4 Starts without any `puma_points`. Each `Raccoon` object has to be given `puma_points` by their puma best friend. Set that value to zero at initialization.
 
-5 Should be able to talk to it's puma bff. Write a method that allows each raccoon to tell it's best friend, "I LOVE YOU PUMA BEST FRIEND." 
+5 Should be able to talk to it's puma bff. Write a method that allows each raccoon to tell it's best friend, "I love you, Puma Best Friend." 
 
 6 Should be able to give `raccoon_points` to their puma bff. Create a method called `give_raccoon_points`. This method should accept any argument (the instance of the `Puma` class it'll give the points to) and should increment the `raccoon_points` attribute of the instance of the `Puma` class.
 
@@ -37,7 +36,7 @@ We're going to build two classes. A `Raccoon` class and a `Puma` class.
 
 4 Starts without any `raccoon_points`. Each `Puma` object has to be given `raccoon_points` by their raccoon best friend. Set that value to zero at initialization.
 
-5 Should be able to talk to it's raccoon bff. Write a method that allows each puma to tell it's best friend, "I LOVE YOU RACCOON BEST FRIEND." 
+5 Should be able to talk to it's raccoon bff. Write a method that allows each puma to tell it's best friend, "I love you, Raccoon Best Friend." 
 
 6 Should be able to give `puma_points` to their raccoon bff. Create a method called `give_puma_points`. This method should accept any argument (the instance of the `Raccoon` class it'll give the points to) and should increment the `puma_points` attribute of the instance of the `Raccoon` class.
 

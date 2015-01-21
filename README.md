@@ -6,7 +6,7 @@ type: todo
 ---
 
 ### Raccoons and Pumas, BFFAE
-<img src="https://after-school-assets.s3.amazonaws.com/puma.jpg">
+<img src="https://after-school-assets.s3.amazonaws.com/puma.jpg" width="600px">
 
 ### Step 1: 
 Watch this [YouTube video](https://www.youtube.com/watch?v=vxiSP_ch_oI).

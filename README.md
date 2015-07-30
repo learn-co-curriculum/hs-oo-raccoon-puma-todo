@@ -1,9 +1,4 @@
----
-tags: ruby, kids, oo, oop, object-orientation, todo
-languages: ruby
-level: 1
-type: todo
----
+
 ### Raccoons and Pumas, BFFAE
 <img src="https://after-school-assets.s3.amazonaws.com/puma.jpg" width="600px">
 ### Step 1: 

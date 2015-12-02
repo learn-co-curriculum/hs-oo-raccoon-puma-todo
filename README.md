@@ -34,3 +34,5 @@ We're going to build two classes. A `Raccoon` class and a `Puma` class.
 6. Should be able to give `puma_points` to their raccoon bff. Create a method called `give_puma_points`. This method should accept any argument (the instance of the `Raccoon` class it'll give the points to) and should increment the `puma_points` attribute of the instance of the `Raccoon` class.
 
 7. Finally, Pumas need to be able to drop their best friend, and get another. Create a method called `drop_raccoon_bestie`. This method should accept an instance of the `Raccoon` class as an argument. The body of the method should set the `has_puma_bff?` attribute of the `Raccoon` class to false.
+
+<a href='https://learn.co/lessons/hs-oo-raccoon-puma-todo' data-visibility='hidden'>View this lesson on Learn.co</a>

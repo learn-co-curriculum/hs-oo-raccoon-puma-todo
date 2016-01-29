@@ -35,4 +35,4 @@ We're going to build two classes. A `Raccoon` class and a `Puma` class.
 
 7. Finally, Pumas need to be able to drop their best friend, and get another. Create a method called `drop_raccoon_bestie`. This method should accept an instance of the `Raccoon` class as an argument. The body of the method should set the `has_puma_bff?` attribute of the `Raccoon` class to false.
 
-<a href='https://learn.co/lessons/hs-oo-raccoon-puma-todo' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-oo-raccoon-puma-todo' title='Raccoons and Pumas, BFFAE'>Raccoons and Pumas, BFFAE</a> on Learn.co and start learning to code for free.</p>
